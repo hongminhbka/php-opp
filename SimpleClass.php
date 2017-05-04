@@ -1,5 +1,6 @@
 <?php
-namespace oop;
+
+namespace opp;
 
 class SimpleClass
 {

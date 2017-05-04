@@ -1,5 +1,6 @@
 <?php
-use oop\SimpleClass;
+
+use opp\SimpleClass;
 
 $objectNew = new SimpleClass();
 
