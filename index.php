@@ -1,4 +1,5 @@
 <?php
+
 class A
 {
     function foo()
@@ -29,4 +30,3 @@ $b = new B();
 $b->bar();
 
 B::bar();
-?>
